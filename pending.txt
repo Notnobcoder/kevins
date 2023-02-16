@@ -1,0 +1,6 @@
+ 
+2. style forms in contact
+3. footer change in logo
+4. change destination name in footar
+5. add whtsp and call button
+ 
